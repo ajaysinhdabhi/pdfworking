@@ -1,0 +1,13 @@
+package com.example.pdfp;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProposedsytemApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProposedsytemApplication.class, args);
+	}
+
+}

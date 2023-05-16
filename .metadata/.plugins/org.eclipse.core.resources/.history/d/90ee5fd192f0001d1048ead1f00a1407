@@ -1,0 +1,45 @@
+<html>
+    <head></head>
+    <body>
+        <style>
+            .div1{
+            padding-left:0rem;
+            }
+
+            .div2 {
+                padding-top: 12rem;
+                border: 1px solid red;
+            }
+        </style>
+        <p style="font-size:10px">Note: Data in this report reflects the (GMT 00:00) Western European
+            Daylight Time (Africa/Casablanca) timezone</p>
+        <div style="float:right">
+            <img
+                src="file:///home/aspire800/Desktop/New%20Folder%201/proposedsytem/kgplogo.png"
+                alt="kgplogo"
+                width="270"/>
+        </div>
+        
+
+     <div style="width:140rem; padding-left:1rem;" class="div1">
+     
+     		
+           <div style="width:100rem; height:100rem; background-color:#aeaeb6; float: right;">
+            		<div style="width:50rem; height:100rem; background-color:#aea8e3; float: right;">
+            		 
+                    </div>
+                    
+            </div>
+            
+            
+           
+            
+            
+            
+     </div>
+     
+     
+               
+
+    </body>
+</html>

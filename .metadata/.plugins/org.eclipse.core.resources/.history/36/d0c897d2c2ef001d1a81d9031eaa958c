@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+Hello <b>$name!</b>
+<br/>
+<br/>
+this file is generated on : $genDateTime
+</body>
+</html>
