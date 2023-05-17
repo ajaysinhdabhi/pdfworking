@@ -4,9 +4,12 @@
   .page-break {
     page-break-before: always;
   }
+.bold-bullets {
   
-  
+  font-weight:bold;
+}
 
+   
 </style>
     </head>
     <body style="padding-left: 50px;">
@@ -16,12 +19,10 @@
     
         <p style="font-size:10px;padding-left: 50px;">Note: Data in this report reflects the (GMT 00:00) Western European
             Daylight Time (Africa/Casablanca) timezone</p>
-        <div style="float:right;padding-right: 50px;">
-            <img
-                src="file:///home/aspire800/Desktop/New%20Folder%201/proposedsytem/kgplogo.png"
-                alt="kgplogo"
-                width="270"/>
-        </div>
+            
+       <div  style="float:right;padding-right: 50px;">
+                   <img src="$imageUrl" alt="Image" width="270" />
+              </div>
         
        
         
@@ -35,7 +36,7 @@
         	
         	
                 <div style="padding-left:50px;width:100rem;padding-top:-122px">
-        	         <img src="file:///home/aspire800/Desktop/New%20Folder%201/proposedsytem/1586515138792.jpeg" style="height:100px;padding-top:50rem;width:68rem"/>
+        	         <img src="file:///home/aspire800/Desktop/pdfwork/proposedsytem/1586515138792.jpeg" style="height:100px;padding-top:50rem;width:68rem"/>
                 </div>
                 
                 
@@ -45,7 +46,21 @@
   		       <div style="float:left;padding-top:-7rem">
   		                   <h3 style="color:#5f5fbd;font-size:21px;">POORAV SOLANKI</h3>
   		                   <div style="padding-top:-12rem;padding-right:53px;">
-  		                         <hr style="width:795px;"  />
+  		                                
+  		                   
+  		                        <div style="float:left;">
+  		                                    <hr style="width:795px;color:#555ec7;"  />
+  		                            
+  		                            </div>   
+  		                               <div style="float:left;padding-top:0px;padding-right:795rem;">
+  		                                    <hr style="color:#a5a5a5;width:50px"  />
+  		                            
+  		                               </div>   
+  		                          
+  		                                <div style="float:left;padding-top:0px;padding-right:1510rem;">
+  		                                    <hr style="color:#f09f6b;width:95px"  />
+  		                            
+  		                               </div>   
   		                   </div>
   		 
   		 
@@ -189,10 +204,7 @@
 <div class="page-break">
 
                   <div  style="float:right;padding-right: 50px;">
-                         <img
-                          src="file:///home/aspire800/Desktop/New%20Folder%201/proposedsytem/kgplogo.png"
-                          alt="kgplogo"
-                          width="270"/>
+                      <img src="$imageUrl" alt="Image" width="270" />
                   </div>
                   
                   
@@ -208,11 +220,11 @@
                                   <h4 style="color:#6155c8;font-size:16px;">RATIONALE</h4>
                                   
                                   <div style="padding-top:-10px;">
-                                      <p style="font-size:16px;color:black;line-height: 1.3;">Desde el 2021 en la empresa, antes 3 años IBK Product Owner Servicios de<br/>
-                                              Recaudación para Empresas, Product Owner Cuenta Corriente Empresas y Pagos<br/>
+                                      <p style="font-size:16px;color:black;line-height: 1.3;">Desde el 2021 en la empresa, antes 3 a&ntilde;os IBK Product Owner Servicios de<br/>
+                                              Recaudaci&otilde;n para Empresas, Product Owner Cuenta Corriente Empresas y Pagos<br/>
                                               Masivos, Product Manager Cuenta Negocios Digital y Pagos Masivos, Consultor en<br/>
-                                              Innovación en Grupo Modelo, 4 años Safetypay Senior Key Account Manager,<br/>
-                                              Marketing Manager, 5 años IBK Ejecutivo Comercial de Cash Management y Lending<br/>
+                                              Innovaci&otilde;n en Grupo Modelo, 4 a&ntilde;os Safetypay Senior Key Account Manager,<br/>
+                                              Marketing Manager, 5 a&ntilde;os IBK Ejecutivo Comercial de Cash Management y Lending<br/>
                                               en Interbank,Asistente Comercial Banca Empresarial.</p>
                                       </div>
   		                   </div>
@@ -227,10 +239,7 @@
 <div class="page-break">
 
                   <div  style="float:right;padding-right: 50px;">
-                         <img
-                          src="file:///home/aspire800/Desktop/New%20Folder%201/proposedsytem/kgplogo.png"
-                          alt="kgplogo"
-                          width="270"/>
+                      <img src="$imageUrl" alt="Image" width="270" />
                   </div>
                   
                   
@@ -261,10 +270,7 @@
 <div class="page-break">
 
                   <div  style="float:right;padding-right: 50px;">
-                         <img
-                          src="file:///home/aspire800/Desktop/New%20Folder%201/proposedsytem/kgplogo.png"
-                          alt="kgplogo"
-                          width="270"/>
+                       <img src="$imageUrl" alt="Image" width="270" />
                   </div>
                   
                   
@@ -299,8 +305,8 @@
                        							<p style="font-size:16px;color:black;line-height: 1.3;padding-top:35px;padding-left:20px;"><b>
                        							<ol type="1">
                                                    <li>test1</li>
-                                                   <li>Teste los flujos para saber si es til o recomendara. Ya lo haba hecho IBK</li>
-                                                   <li>Va a lanzar una tercera versión que lo va a lanzar en la plataforma digital de empresa.&lt;&gt;<u>`~@#$%^&amp;*()-_=+,?/</u></li>
+                                                   <li>Teste&#x00F3; los flujos para saber si es &#x00FA;til o recomendar&#x00ED;a. Ya lo hab&#x00ED;a hecho IBK</li>
+                                                   <li>Va a lanzar una tercera versi&#x00F3;n que lo va a lanzar en la plataforma digital de empresa.&lt;&gt;<u>`~@#$%^&amp;*()-_=+,?/</u></li>
                                                  </ol>
                                                  </b></p>
                                                  
@@ -312,13 +318,13 @@
                                                     <div style="padding-top:-20px;padding-right:185px"><hr style="height:3px;color:#000000;"/></div>                                 
                                                        
                                                           
-                                                    <h2 style="color:black;line-height: 0.5;"><b><i>consiliisque picurum extremum, fabulas finitum</i></b></h2>
+                                                    <h2 style="color:black;line-height: 0.5;"><b><i>consiliisque &#x00E9;picur&#x00E9;um extremum, fabulas finitum</i></b></h2>
                                                      <div style="padding-top:-20px;padding-right:135px"><hr style="height:3px;color:#000000;"/></div>        
                                                              
-                                                    <h2 style="color:black;line-height: 0.5;"><b><i>maximeque me pininum pariendarum sedulitatem</i></b></h2>
+                                                    <h2 style="color:black;line-height: 0.5;"><b><i>maximeque me&#x00E1; &#x00F3;pi&#x00F3;ninum pariendarum sedulitatem</i></b></h2>
                                                       <div style="padding-top:-20px;padding-right:115px"><hr style="height:3px;color:#000000;"/></div>       
                                                              
-                                                    <h2 style="color:black;line-height: 0.5;"><b><i>successionem! Adipiscuntur iusmod imbutus</i></b></h2>
+                                                    <h2 style="color:black;line-height: 0.5;"><b><i>successionem! Adipiscuntur &#x00E9;iusmod imbutus</i></b></h2>
                                                        <div style="padding-top:-20px;padding-right:160px"><hr style="height:3px;color:#000000;"/></div>      
                                                              
                                                     <h2 style="color:black;line-height: 0.5;"><b><i>intellegimus lobortis locos multoque tua! Cohaerescant</i></b></h2>
@@ -327,13 +333,13 @@
                                                     <h2 style="color:black;line-height: 0.5;"><b><i>complectitur consilio dictum epicurus, insequitur logikh</i></b></h2>
                                                          <div style="padding-top:-20px;padding-right:40px"><hr style="height:3px;color:#000000;"/></div>    
                                                              
-                                                    <h2 style="color:black;line-height: 0.5;"><b><i>mutt neque panaetium, quo reiciendis temperantia.</i></b></h2>
+                                                    <h2 style="color:black;line-height: 0.5;"><b><i>mut&#x00E1;t neque panaetium, quo reiciendis temperantia.</i></b></h2>
                                                    		<div style="padding-top:-20px;padding-right:100px"><hr style="height:3px;color:#000000;"/></div>
                                                    		
                                                    		
-                                                   		<p style="font-size:16px;color:black;line-height: 1.3;padding-top:20px;padding-left:20px;">Dolere eorum inpotenti nescio parte physicis? Alienum congressus éuripidis<br/>
-                                                                   ibidem iniurias, inveneris laudem lobortis ridiculus vitupérandaé! Alliciat artis<br/>
-                                                                   deseruisse dólórum exedunt, gravissimo gubernatóris quanto supplicii. Albam </p>
+                                                   		<p style="font-size:16px;color:black;line-height: 1.3;padding-top:20px;padding-left:20px;">Dolere eorum inpotenti nescio parte physicis? Alienum congressus &#x00E9;uripidis<br/>
+                                                                   ibidem iniurias, inveneris laudem lobortis ridiculus vitup&#x00E9;randa&#x00E9;! Alliciat artis<br/>
+                                                                   deseruisse d&#x00F3;l&#x00F3;rum exedunt, gravissimo gubernat&#x00F3;ris quanto supplicii. Albam </p>
                                                
                                       </div>
   		                   </div>
@@ -348,10 +354,7 @@
 <div class="page-break">
 
                   <div  style="float:right;padding-right: 50px;">
-                         <img
-                          src="file:///home/aspire800/Desktop/New%20Folder%201/proposedsytem/kgplogo.png"
-                          alt="kgplogo"
-                          width="270"/>
+                       <img src="$imageUrl" alt="Image" width="270" />
                   </div>
                   
                   
@@ -364,49 +367,49 @@
                             
                             <div style="float:left;padding-left:-70px;padding-top:10px;">
                      				
-                     				<p style="font-size:16px;color:black;line-height: 1.3;padding-left:20px;">conficiuntque cumanum desiderent éxquisitis, gloriátur inpéndénté inportuno<br/>
-                                              legantur liquidae opus possimus vicinum! Concordia horreát hostis initiis,<br/>
-                                              interpretaris inutilé invidi máuris meo multo nulli prohiberet! Contenta erga<br/>
+                     				<p style="font-size:16px;color:black;line-height: 1.3;padding-left:20px;">conficiuntque cumanum desiderent &#x00E9;xquisitis, glori&#x00E1;tur inp&#x00E9;nd&#x00E9;nt&#x00E9; inportuno<br/>
+                                              legantur liquidae opus possimus vicinum! Concordia horre&#x00E1;t hostis initiis,<br/>
+                                              interpretaris inutil&#x00E9; invidi m&#x00E1;uris meo multo nulli prohiberet! Contenta erga<br/>
                                               laborum virtutibus! 
                                               
                                               <br/>
                                               <br/>
-                                              Cáusáe cónsequantur deterius incidérint lineam, magnos multitudinem non<br/>
-                                              privavisse quantumcumqué specie statua synephebos veri vivatur? Montes<br/>
-                                              praetereat sitisque umbram vólumus? Distinguique facete facio ferámus, habitant<br/>
-                                              indicaverunt naturalem sumó veritus!
+                                              C&#x00E1;us&#x00E1;e c&#x00F3;nsequantur deterius incid&#x00E9;rint lineam, magnos multitudinem non<br/>
+                                              privavisse quantumcumqu&#x00E9; specie statua synephebos veri vivatur? Montes<br/>
+                                              praetereat sitisque umbram v&#x00F3;lumus? Distinguique facete facio fer&#x00E1;mus, habitant<br/>
+                                              indicaverunt naturalem sum&#x00F3; veritus!
                                               </p><br/>
                                               
-                                               <p style="font-size:16px;color:black;line-height: 1.3;padding-top:5px;">Consecutus depravatum flagitem hac morbi tarentinis! Agatur fórtunam fruentem<br/>
+                                               <p style="font-size:16px;color:black;line-height: 1.3;padding-top:5px;">Consecutus depravatum flagitem hac morbi tarentinis! Agatur f&#x00F3;rtunam fruentem<br/>
                                                      gloriatur, magnitudinem nescio offendimur oratio ornatum prompta sint! Conficiuntur<br/>
-                                                     cupiditates ferentur láboribus, meminerimus privamur studuisse uterque? Choro<br/>
-                                                     comit debilitátem declinationem expedire prohiberet quaedam recordatione sabinum<br/>
+                                                     cupiditates ferentur l&#x00E1;boribus, meminerimus privamur studuisse uterque? Choro<br/>
+                                                     comit debilit&#x00E1;tem declinationem expedire prohiberet quaedam recordatione sabinum<br/>
                                                      sanguinem ubique vocibus! Amicitias assidua eiusdem imperiis, istius libido licebit<br/>
-                                                     médicorum, prónuntiaret rationis terrore veri via vólutpat. Aegritudó áeterno<br/>
-                                                     ceterorum incidant mala, opibus posteri sea sólitudó.<br/><br/><br/>
-                                                     Difficilem dolere fámiliás ferri initiá, laboramus vigiliae vituperatoribus! Amicum<br/>
+                                                     m&#x00E9;dicorum, pr&#x00F3;nuntiaret rationis terrore veri via v&#x00F3;lutpat. Aegritud&#x00F3; &#x00E1;eterno<br/>
+                                                     ceterorum incidant mala, opibus posteri sea s&#x00F3;litud&#x00F3;.<br/><br/><br/>
+                                                     Difficilem dolere f&#x00E1;mili&#x00E1;s ferri initi&#x00E1;, laboramus vigiliae vituperatoribus! Amicum<br/>
                                       				 arbitrantur canes consentientis, dedecora dissidens domus molestiae monstruosi<br/>
-                                      				 mutans. Consécutus extremo intemperantiam invidus profectus répréhéndérit.<br/>
-                                      				 Aequum cláriorá fortitudo itaque mediocrium, métum minorem nos recusabo<br/>
-                                      				 temperantia? Beatae débémus delectus habet inpoténti iudicandum notissima óritur<br/>
-                                      				 pacto plena poena ratione sunt timéam. Arbitrer consequamur cyrenaicisque<br/>
+                                      				 mutans. Cons&#x00E9;cutus extremo intemperantiam invidus profectus r&#x00E9;pr&#x00E9;h&#x00E9;nd&#x00E9;rit.<br/>
+                                      				 Aequum cl&#x00E1;rior&#x00E1; fortitudo itaque mediocrium, m&#x00E9;tum minorem nos recusabo<br/>
+                                      				 temperantia? Beatae d&#x00E9;b&#x00E9;mus delectus habet inpot&#x00E9;nti iudicandum notissima &#x00F3;ritur<br/>
+                                      				 pacto plena poena ratione sunt tim&#x00E9;am. Arbitrer consequamur cyrenaicisque<br/>
                                       				 existimant mel, reiciat sedentis sole tranquilli! Maiorum molestum optabilem studio!<br/><br/><br/>
-                                      				 Aristotélé léniat mala praeter, putent sciscat tradunt? Adamare adipiscuntur<br/>
-                                                     aliquyam ánte audeam, confidet cupiditatibusque explicabo iudicandum mihi, paulo<br/>
-                                                     quiétém virtutes. Asséntior cognitio huc ipsarum leniat, macedonum molita pellat<br/>
-                                                     quantumcumque sociis telos! Commodis contereret corpore debeo dédocéré eirmód<br/>
+                                      				 Aristot&#x00E9;l&#x00E9; l&#x00E9;niat mala praeter, putent sciscat tradunt? Adamare adipiscuntur<br/>
+                                                     aliquyam &#x00E1;nte audeam, confidet cupiditatibusque explicabo iudicandum mihi, paulo<br/>
+                                                     qui&#x00E9;t&#x00E9;m virtutes. Ass&#x00E9;ntior cognitio huc ipsarum leniat, macedonum molita pellat<br/>
+                                                     quantumcumque sociis telos! Commodis contereret corpore debeo d&#x00E9;doc&#x00E9;r&#x00E9; eirm&#x00F3;d<br/>
                                                      horum magnus mollit mox optimum rebus timeret. 
                                                </p>
                                                
                                                
                                                	<p style="font-size:16px;color:black;line-height: 1.3;padding-top:5px;padding-left:20px;">
-                       							<ol type="1">
-                                                   <li>* Lorem ipsum dolor sit amet, atqui calere elabóraret eruditionem patiatur <br/>quaerimus vidisse? </li>
-                                                   <li>* áuctor excepteur fortitudo paulo?</li>
-                                                   <li>* Cárere gessisse plané vestibulum?</li>
-                                                   <li>* Confirmavit homero ignorare nos reliquisti tenebo terrore vigiliae?</li>
-                                                   <li>* Claris odia terminatas voluptati. </li>
-                                                   <li>* Aliae emolumenti expetendis meliore notissima plura. </li>
+                       							<ol type="1" class="bold-bullets">
+                                                   <li><p style="font-weight: normal;">* Lorem ipsum dolor sit amet, atqui calere elab&#x00F3;raret eruditionem patiatur <br/>quaerimus vidisse? </p></li>
+                                                   <li><p style="font-weight: normal;">* &#x00E1;uctor excepteur fortitudo paulo?</p></li>
+                                                   <li><p style="font-weight: normal;">* C&#x00E1;rere gessisse plan&#x00E9; vestibulum?</p></li>
+                                                   <li><p style="font-weight: normal;">* Confirmavit homero ignorare nos reliquisti tenebo terrore vigiliae?</p></li>
+                                                   <li><p style="font-weight: normal;">* Claris odia terminatas voluptati.</p> </li>
+                                                   <li><p style="font-weight: normal;">* Aliae emolumenti expetendis meliore notissima plura. </p></li>
                                                  </ol>
                                                  </p>
                                   
@@ -421,12 +424,9 @@
 
 <div class="page-break">
 
-                  <div  style="float:right;padding-right: 50px;">
-                         <img
-                          src="file:///home/aspire800/Desktop/New%20Folder%201/proposedsytem/kgplogo.png"
-                          alt="kgplogo"
-                          width="270"/>
-                  </div>
+                 <div  style="float:right;padding-right: 50px;">
+                      <img src="$imageUrl" alt="Image" width="270" />
+                 </div>
                   
                   
                 <div>
@@ -442,10 +442,10 @@
                                   <div style="padding-top:-10px;">
                                       <p style="font-size:16px;color:black;line-height: 1.8;">
                                               <ul style="list-style-type:none;">
-                                                   <li>* Fonte néglégéntur nullae pellat. </li>
-                                                   <li>* Earumque tóta videamus virtutém? </li>
+                                                   <li>* Fonte n&#x00E9;gl&#x00E9;g&#x00E9;ntur nullae pellat. </li>
+                                                   <li>* Earumque t&#x00F3;ta videamus virtut&#x00E9;m? </li>
                                                    <li>* Coerceri firmissimum necessarius sis?</li>
-                                                 
+                                                  
                                                  </ul>
                                       </p>
                                   </div>

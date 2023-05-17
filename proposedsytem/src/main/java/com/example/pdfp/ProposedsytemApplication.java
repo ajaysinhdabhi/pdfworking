@@ -53,8 +53,14 @@ public class ProposedsytemApplication {
 		Template t = ve.getTemplate("templates/proposedsystem.vm");
 		/* create a context and add data */
 		VelocityContext context = new VelocityContext();
+		
+		 // Provide the image URL or file path
+
+		String imageUrl = "file:///home/aspire800/Desktop/pdfwork/proposedsytem/kgplogo.png";
 		context.put("name", "World");
 		context.put("genDateTime", LocalDateTime.now().toString());
+		context.put("imageUrl", imageUrl);
+		
 		/* now render the template into a StringWriter */
 		StringWriter writer = new StringWriter();
 		t.merge(context, writer);

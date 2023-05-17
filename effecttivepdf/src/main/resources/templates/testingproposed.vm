@@ -1,0 +1,43 @@
+
+<html>
+    <head>
+    <style>
+  .page-break {
+    page-break-before: always;
+  }
+   
+  
+  
+
+</style>
+    </head>
+    <body style="padding-left: 50px;">
+    
+
+
+
+              <div  style="float:right;padding-right: 50px;">
+                   <img src="$imageUrl" alt="Image" width="270" />
+              </div>
+                  
+                 
+
+                           	<div style="padding-top:15rem;padding-right:53px;padding-left:30px;">
+  		                            <div style="float:left;">
+  		                                    <hr style="width:795px;color:#555ec7;"  />
+  		                            
+  		                            </div>   
+  		                               <div style="float:left;padding-top:0px;padding-right:1050rem;">
+  		                                    <hr style="color:#a5a5a5;width:40px"  />
+  		                            
+  		                               </div>   
+  		                          
+  		                                <div style="float:left;padding-top:0px;padding-right:2015rem;">
+  		                                    <hr style="color:#f09f6b;width:70px"  />
+  		                            
+  		                               </div>   
+  		                   </div>  
+  
+   
+      </body>
+</html>
